@@ -4,9 +4,9 @@
 Este proyecto realiza un análisis descriptivo de los datos de la plantilla. El objetivo es identificar patrones, tendencias y áreas de mejora para elevar la eficiencia en la compañía.  
 📁*Estructura del proyecto:*
 
-├──test/                # Datos
+├──test.csv/                # Datos en formato csv
 
-├── HR data set/             # Datos procesados y dashboard
+├── HR data set.xlsm/             # Datos procesados y dashboard con macros
 
 ├── README.md            # Descripción del proyecto
 
